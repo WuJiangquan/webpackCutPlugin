@@ -1,0 +1,14 @@
+{
+  "name": "webpackcutplugin",
+  "version": "1.0.0",
+  "description": "webpack cut plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
